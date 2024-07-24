@@ -21,13 +21,27 @@ import estate from "./estate.svg";
 import pricewise from "./pricewise.svg";
 import snapgram from "./snapgram.svg";
 import summiz from "./summiz.svg";
-import threads from "./threads.svg";
 import arrow from "./arrow.svg";
 import contact from "./contact.svg";
 import soundon from "./soundon.png";
 import soundoff from "./soundoff.png";
 import firebase from "./firebase.svg";
 import styledcomponents from "./styledcomponents.svg";
+import netflix from "./netflix.svg";
+import metathread from "./metathread.svg";
+import apple from "./apple.svg";
+import portfolio from "./portfolio.svg";
+import google from "./google.svg";
+import lmpg from "./lmpg.svg";
+import evolutics from "./evolutics.svg";
+import unilag from "./unilag.svg";
+import vite from "./vite.svg";
+import three from "./three.svg";
+import gsap from "./gsap.svg";
+import fm from "./fm.svg";
+import c from "./c.svg";
+import aceternity from "./aceternity.svg";
+import shadcn from "./shadcn.svg";
 
 export {
   css,
@@ -53,11 +67,25 @@ export {
   pricewise,
   snapgram,
   summiz,
-  threads,
   arrow,
   contact,
   soundon,
   soundoff,
   firebase,
   styledcomponents,
+  netflix,
+  metathread,
+  apple,
+  portfolio,
+  google,
+  lmpg,
+  evolutics,
+  unilag,
+  vite,
+  three,
+  gsap,
+  fm,
+  c,
+  aceternity,
+  shadcn,
 };
