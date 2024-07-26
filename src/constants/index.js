@@ -250,7 +250,7 @@ export const projects = [
     name: "Minimalist Developer Portfolio",
     description:
       "Designed and built a Modern & Minimal Welldiness_LMPG Dev Portfolio",
-    link: "#",
+    link: "https://welldiusprimex-modern-portfolio.vercel.app/",
   },
   {
     iconUrl: apple,
